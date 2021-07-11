@@ -1,4 +1,4 @@
 aa
-changed only in a
+func b(){
 
-changed in line 4
+}
