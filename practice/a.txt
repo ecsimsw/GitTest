@@ -1,2 +1,2 @@
 aa
-conflict
+changed only in a
