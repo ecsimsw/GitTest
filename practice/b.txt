@@ -1,2 +1,2 @@
 b
-conflict
+changed only in b
