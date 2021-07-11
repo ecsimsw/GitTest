@@ -1,4 +1,2 @@
 aa
-conflict
-
-changed line 4
+changed only in a
