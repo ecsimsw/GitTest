@@ -1,3 +1,4 @@
 aa
-changed only in a
-changed line 3
+func(){
+
+}
